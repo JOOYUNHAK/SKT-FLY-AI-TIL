@@ -147,3 +147,5 @@ for i in range(3, 30):
 clf = KNeighborsClassifier(n_neighbors = 5)
 ```
 
+### 적절한 K를 실험해 보면서 찾아야 함
+<img src = "https://user-images.githubusercontent.com/99117410/209188631-09c60490-dc77-4420-aa94-b1b597bf01df.png">
